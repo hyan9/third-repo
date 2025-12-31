@@ -1,4 +1,4 @@
-# Hello, i am from remote.
+# Hello, I am from remote.
 
 ## How to start
 
