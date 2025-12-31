@@ -3,7 +3,7 @@
 
 ## How to start
 `$ python fizzbuzz.py`
-짜증나네
+
 ## Installation
 
 ```shell
