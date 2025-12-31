@@ -1,3 +1,4 @@
+
 # Github flow pracitce
 
 ## How to start
@@ -10,5 +11,3 @@
 $ git clone {repo addr}
 $ cd third-repo
 ```
-
-## Features
